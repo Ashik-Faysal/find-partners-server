@@ -33,7 +33,8 @@
       "Michael Jackson is an expert in his field and provided exceptional services for my business.",
       "I'm impressed with Michael's quick response time and attention to detail.",
       "Highly recommended for financial and accounting services."
-    ]
+    ],
+    "task": "Basic to cop;ex tasks"
   },
   {
     "id": 2,
@@ -64,7 +65,8 @@
       "Stevie Wonder's music has touched the hearts of many and his live performances are truly magical.",
       "I hired Stevie for my event, and it was a night to remember. His talent is unparalleled.",
       "Stevie is a music legend, and his dedication to his craft is evident in every performance."
-    ]
+    ],
+    "task":"complex or hard task"
   },
   {
     "id": 3,
@@ -95,6 +97,7 @@
       "Ray Charles' music has a timeless quality, and his live performances are unforgettable.",
       "I'm a fan of Ray Charles' soulful music. He's an icon in the industry.",
       "Ray Charles' music is pure magic, and his piano playing is unparalleled."
-    ]
+    ],
+    "task":"Medium Task"
   }
 ]
