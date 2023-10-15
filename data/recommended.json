@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Jackson",
+    "image": "https://images.unsplash.com/photo-1501789055141-e427f92fb1c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fE1pY2hhZWwlMjBKYWNrc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "price": "4370",
+    "description": "I will do business evaluation and corporate services",
+    "rating": 4.8,
+    "review": 89,
+    "about": "I have over 10 years of experience in the business evaluation and corporate services field.",
+    "fullDescription": "As a seasoned professional, I am committed to providing top-notch business evaluation and corporate services to help your business thrive. I have a track record of assisting businesses in making informed decisions and achieving their financial goals.",
+    "delivers": "2 days",
+    "from": "India",
+    "partnerSince": "2010",
+    "averageResponseTime": "30 minutes",
+    "services": [
+      "Financial accounting",
+      "Financial statement",
+      "Bookkeeping",
+      "Accounting and finance",
+      "Corporate finance",
+      "Maintain charts of accounts",
+      "Profit and loss statements",
+      "Bank Reconciliation",
+      "Balance sheets"
+    ],
+    "whyMe": [
+      "One-time delivery",
+      "24/7 customer support",
+      "Error-free documents"
+    ],
+    "peopleSay": [
+      "Michael Jackson is an expert in his field and provided exceptional services for my business.",
+      "I'm impressed with Michael's quick response time and attention to detail.",
+      "Highly recommended for financial and accounting services."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Stevie Wonder",
+    "image": "https://images.unsplash.com/photo-1613231365618-5ebf85a8209e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8amFja3NvbnZpbGxlJTIwZmxvcmlkYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "price": "4263",
+    "description": "I provide expert music and entertainment services.",
+    "rating": 5,
+    "review": 62,
+    "about": "With decades of experience in the music and entertainment industry, I am dedicated to delivering unforgettable performances.",
+    "fullDescription": "As a renowned musician and entertainer, I bring joy and entertainment to audiences worldwide. My extensive music career and commitment to excellence set me apart in the industry.",
+    "delivers": "Varies based on the event",
+    "from": "United States",
+    "partnerSince": "1970",
+    "averageResponseTime": "1 hour",
+    "services": [
+      "Live music performances",
+      "Event entertainment",
+      "Music composition",
+      "Singing and songwriting"
+    ],
+    "whyMe": [
+      "Unique and memorable performances",
+      "A legacy of music excellence",
+      "Professionalism and reliability"
+    ],
+    "peopleSay": [
+      "Stevie Wonder's music has touched the hearts of many and his live performances are truly magical.",
+      "I hired Stevie for my event, and it was a night to remember. His talent is unparalleled.",
+      "Stevie is a music legend, and his dedication to his craft is evident in every performance."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ray Charles",
+    "image": "https://images.unsplash.com/photo-1529466154926-1e7659db6eb3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8amFja3NvbnZpbGxlJTIwZmxvcmlkYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "price": "2586",
+    "description": "I am a legendary musician and performer. That's it.",
+    "rating": 4.3,
+    "review": 189,
+    "about": "I am an iconic musician known for my soulful music and live performances.",
+    "fullDescription": "Throughout my career, I've brought the joy of music to countless people. My unique style and unforgettable melodies have made me a legend in the music industry.",
+    "delivers": "Varies based on the event",
+    "from": "United States",
+    "partnerSince": "1950",
+    "averageResponseTime": "1 hour",
+    "services": [
+      "Live music performances",
+      "Soulful music",
+      "Piano playing",
+      "Songwriting"
+    ],
+    "whyMe": [
+      "Legendary status in the music industry",
+      "Soulful and heartfelt performances",
+      "Iconic piano playing"
+    ],
+    "peopleSay": [
+      "Ray Charles' music has a timeless quality, and his live performances are unforgettable.",
+      "I'm a fan of Ray Charles' soulful music. He's an icon in the industry.",
+      "Ray Charles' music is pure magic, and his piano playing is unparalleled."
+    ]
+  }
+]

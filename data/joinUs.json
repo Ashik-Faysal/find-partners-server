@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1st",
+    "name": "Commencement of business",
+    "description": "Invested shareholders must confirm payment and office address",
+    "dueDate": "Within 180 days",
+    "penalty": "50,000 for the company",
+    "upperLimit": "1000/days for directors"
+  },
+  {
+    "id": "2nd",
+    "name": "Auditor Appointment",
+    "description": "Company informs new auditor and submits ADT form to ROC",
+    "dueDate": "Within 30 days",
+    "penalty": "300 per month"
+  },
+  {
+    "id": "3rd",
+    "name": "DIN eKYC",
+    "description": "Directors share personal information for identification & verification",
+    "dueDate": "Every Year",
+    "penalty": "5000 one time"
+  },
+  {
+    "id": "4th",
+    "name": "DPT-3",
+    "description": "Companies report money taken form people to ROC; auditors confirm  details.",
+    "dueDate": "Within 30 days",
+    "penalty": "300 per month"
+  },
+  {
+    "id": "5th",
+    "name": "MCA Form AOC-4",
+    "description": "It's like an  official report card for a company's documents.",
+    "dueDate": "On or Before 30th November",
+    "penalty": "200 per day",
+    "upperLimit": "(No Upper limit)*"
+  },
+  {
+    "id": "6th",
+    "name": "MCA Form MGT-7",
+    "description": "Companies must annually report activities and finances to the registrar",
+    "dueDate": "On or Before 31st December",
+    "penalty": "200 per day ",
+    "upperLimit": "(No Upper limit)*"
+  }
+]
