@@ -24,14 +24,14 @@
   {
     "id": "4th",
     "name": "DPT-3",
-    "description": "Companies report money taken form people to ROC; auditors confirm  details.",
+    "description": "Companies report money taken from people to ROC; auditors confirm details.",
     "dueDate": "Within 30 days",
     "penalty": "300 per month"
   },
   {
     "id": "5th",
     "name": "MCA Form AOC-4",
-    "description": "It's like an  official report card for a company's documents.",
+    "description": "It's like an official report card for a company's documents.",
     "dueDate": "On or Before 30th November",
     "penalty": "200 per day",
     "upperLimit": "(No Upper limit)*"
@@ -43,5 +43,419 @@
     "dueDate": "On or Before 31st December",
     "penalty": "200 per day ",
     "upperLimit": "(No Upper limit)*"
-  }
+  },
+  {
+    "id": "7th",
+    "name": "GST Filing",
+    "description": "Filing Goods and Services Tax (GST) returns on a monthly or quarterly basis.",
+    "dueDate": "As per GST rules",
+    "penalty": "Varies based on tax amount and delay",
+    "upperLimit": "Depends on tax authorities"
+  },
+  {
+    "id": "8th",
+    "name": "ITR Filing",
+    "description": "Submission of Income Tax Return (ITR) for individuals and businesses.",
+    "dueDate": "31st July for individuals, 30th September for businesses",
+    "penalty": "Varies based on income and delay"
+  },
+  {
+    "id": "9th",
+    "name": "Trademark Renewal",
+    "description": "Renewal of trademark registration to maintain protection.",
+    "dueDate": "Every 10 years",
+    "penalty": "Loss of trademark protection"
+  },
+  {
+    "id": "10th",
+    "name": "Annual General Meeting",
+    "description": "Annual gathering of company shareholders and directors to discuss company affairs.",
+    "dueDate": "Within 6 months from the end of the financial year",
+    "penalty": "Legal consequences for non-compliance"
+  },
+  {
+    "id": "11th",
+    "name": "ESI and PF Payment",
+    "description": "Monthly payment of Employee State Insurance (ESI) and Provident Fund (PF) contributions.",
+    "dueDate": "15th of each month",
+    "penalty": "Interest and legal actions for delays"
+  },
+  {
+    "id": "12th",
+    "name": "Import/Export Declarations",
+    "description": "Submission of customs declarations for imports and exports.",
+    "dueDate": "As per customs regulations",
+    "penalty": "Fines and customs delays for non-compliance"
+  },
+  {
+    "id": "13th",
+    "name": "Safety Compliance Audit",
+    "description": "Regular safety audits to ensure workplace safety and compliance with regulations.",
+    "dueDate": "Annually or as required by authorities",
+    "penalty": "Fines and possible business closure"
+  },
+  {
+    "id": "14th",
+    "name": "Environmental Impact Assessment",
+    "description": "Assessment of environmental impact for new projects and activities.",
+    "dueDate": "Before initiating new projects",
+    "penalty": "Project delays and fines for non-compliance"
+  },
+  {
+    "id": "15th",
+    "name": "FDA Drug Approval",
+    "description": "Approval process for pharmaceutical companies to market new drugs.",
+    "dueDate": "Varies based on drug development timeline",
+    "penalty": "Delays in product launch and financial losses"
+  },
+  {
+    "id": "16th",
+    "name": "Building Permit Renewal",
+    "description": "Renewal of permits for construction and building projects.",
+    "dueDate": "Annually or as specified by local authorities",
+    "penalty": "Construction delays and fines for non-renewal"
+  },
+  {
+    "id": "17th",
+    "name": "Fire Safety Inspection",
+    "description": "Regular inspections to ensure fire safety in commercial and residential properties.",
+    "dueDate": "Annually or as required by fire department",
+    "penalty": "Fire hazards and potential legal actions"
+  },
+  {
+    "id": "18th",
+    "name": "Export Control Compliance",
+    "description": "Compliance with export control regulations for sensitive goods and technologies.",
+    "dueDate": "Ongoing vigilance",
+    "penalty": "Legal consequences for export violations"
+  },
+  {
+    "id": "19th",
+    "name": "Labor Union Reporting",
+    "description": "Submission of labor union activity and financial reports as required by law.",
+    "dueDate": "Annually or as required by labor laws",
+    "penalty": "Legal actions for non-compliance"
+  },
+  {
+    "id": "20th",
+    "name": "FDA Food Labeling Compliance",
+    "description": "Compliance with FDA regulations for food product labeling.",
+    "dueDate": "Before product release",
+    "penalty": "Recalls and legal actions for non-compliance"
+  },
+  {
+    "id": "21st",
+    "name": "Whistleblower Protection Policy",
+    "description": "Implementation and maintenance of policies to protect whistleblowers in the workplace.",
+    "dueDate": "Ongoing vigilance",
+    "penalty": "Legal consequences for retaliation against whistleblowers"
+  },
+  {
+    "id": "22nd",
+    "name": "Data Protection Compliance",
+    "description": "Compliance with data protection and privacy laws, including GDPR and CCPA.",
+    "dueDate": "Ongoing vigilance",
+    "penalty": "Fines and legal actions for data breaches"
+  },
+  {
+    "id": "23rd",
+    "name": "FDA Clinical Trials Approval",
+    "description": "Approval process for conducting clinical trials of new medical treatments.",
+    "dueDate": "Varies based on trial schedule",
+    "penalty": "Delays in research and financial losses"
+  },
+  {
+    "id": "24th",
+    "name": "Ethical Sourcing Audit",
+    "description": "Regular audits to ensure ethical sourcing of materials and labor in supply chains.",
+    "dueDate": "Annually or as required by corporate policies",
+    "penalty": "Reputational damage and legal actions for non-compliance"
+  },
+  {
+    "id": "25th",
+    "name": "Customs Duty Payment",
+    "description": "Payment of customs duties on imported goods",
+    "dueDate": "Varies based on import schedule",
+    "penalty": "Varies based on duty amount and delay",
+    "upperLimit": "Depends on customs regulations"
+  },
+  {
+    "id": "26th",
+    "name": "Property Tax Payment",
+    "description": "Payment of property taxes to local authorities",
+    "dueDate": "Annually or as per local tax calendar",
+    "penalty": "Varies based on property value and delay",
+    "upperLimit": "Depends on local tax regulations"
+  },
+  {
+    "id": "27th",
+    "name": "Capital Gains Tax Reporting",
+    "description": "Reporting capital gains on investments or property sales",
+    "dueDate": "Annually or upon sale of assets",
+    "penalty": "Varies based on capital gains and delay",
+    "upperLimit": "Depends on tax authority guidelines"
+  },
+  {
+    "id": "28th",
+    "name": "Excise Tax Filing",
+    "description": "Filing excise taxes for specific products or services",
+    "dueDate": "As per excise tax regulations",
+    "penalty": "Varies based on tax amount and delay",
+    "upperLimit": "Depends on tax authority rules"
+  },
+  {
+    "id": "29th",
+    "name": "Corporate Tax Payment",
+    "description": "Payment of corporate income taxes to government authorities",
+    "dueDate": "As per corporate tax schedule",
+    "penalty": "Varies based on income and delay",
+    "upperLimit": "Depends on tax authority regulations"
+  },
+  {
+    "id": "30th",
+    "name": "EEO-1 Reporting",
+    "description": "Annual submission of Equal Employment Opportunity (EEO) data to the government.",
+    "dueDate": "Annually by March 31st",
+    "penalty": "Penalties vary based on non-compliance",
+    "upperLimit": "Depends on EEOC regulations"
+  },
+  {
+    "id": "31st",
+    "name": "Hazardous Waste Disposal",
+    "description": "Proper disposal of hazardous waste materials in compliance with environmental regulations.",
+    "dueDate": "Varies based on waste generation",
+    "penalty": "Fines and legal actions for improper disposal",
+    "upperLimit": "Depends on environmental agency regulations"
+  },
+  {
+    "id": "32nd",
+    "name": "Annual Report to Shareholders",
+    "description": "An annual report to shareholders on the company's performance and financial status.",
+    "dueDate": "Within 90 days after the fiscal year-end",
+    "penalty": "Legal consequences for non-compliance",
+    "upperLimit": "No specific upper limit"
+  },
+  {
+    "id": "33rd",
+    "name": "Tax Audit Response",
+    "description": "Preparation and submission of documentation during a tax audit by tax authorities.",
+    "dueDate": "As per the audit schedule",
+    "penalty": "Penalties vary based on audit findings",
+    "upperLimit": "Depends on tax authority discretion"
+  },
+  {
+    "id": "34th",
+    "name": "Pharmaceutical Regulatory Compliance",
+    "description": "Compliance with regulatory requirements for pharmaceutical companies.",
+    "dueDate": "Ongoing vigilance",
+    "penalty": "Fines and product recalls for non-compliance",
+    "upperLimit": "Depends on regulatory authority guidelines"
+  },
+  {
+    "id": "35th",
+    "name": "ISO Certification Renewal",
+    "description": "Renewal of ISO certification for quality management and compliance.",
+    "dueDate": "Every 3 years",
+    "penalty": "Loss of ISO certification and potential business implications",
+    "upperLimit": "Depends on ISO certification body rules"
+  },
+  {
+    "id": "36th",
+    "name": "Export Documentation",
+    "description": "Preparation of export documentation including invoices, bills of lading, and certificates of origin.",
+    "dueDate": "Before each export shipment",
+    "penalty": "Delays in exports and potential fines for non-compliance",
+    "upperLimit": "Depends on export regulations"
+  },
+  {
+    "id": "37th",
+    "name": "Food Safety Inspection",
+    "description": "Regular inspections to ensure food safety and hygiene standards are met.",
+    "dueDate": "Annually or as required by health authorities",
+    "penalty": "Fines and product recalls for non-compliance",
+    "upperLimit": "Depends on health authority guidelines"
+  },
+  {
+    "id": "38th",
+    "name": "Antitrust Compliance Training",
+    "description": "Mandatory antitrust compliance training for employees to prevent antitrust violations.",
+    "dueDate": "Annually for new employees",
+    "penalty": "Legal consequences for antitrust violations",
+    "upperLimit": "No specific upper limit"
+  },
+  {
+    "id": "39th",
+    "name": "FDA Quality System Regulation",
+    "description": "Compliance with FDA quality system regulations for medical devices.",
+    "dueDate": "Ongoing vigilance",
+    "penalty": "Fines and product recalls for non-compliance",
+    "upperLimit": "Depends on FDA regulations"
+  },
+  {
+    "id": "40th",
+    "name": "OSHA Safety Reporting",
+    "description": "Reporting workplace accidents and illnesses to the Occupational Safety and Health Administration (OSHA).",
+    "dueDate": "Within 8 hours for severe incidents",
+    "penalty": "Fines and potential legal actions for non-compliance",
+    "upperLimit": "Depends on OSHA regulations"
+  },
+  {
+    "id": "41st",
+    "name": "Intellectual Property Renewals",
+    "description": "Renewal of patents, trademarks, and copyrights to maintain IP protection.",
+    "dueDate": "Varies based on IP type",
+    "penalty": "Loss of IP protection and potential financial losses",
+    "upperLimit": "Depends on intellectual property office rules"
+  },
+  {
+    "id": "42nd",
+    "name": "Financial Statement Audits",
+    "description": "Annual financial statement audits to ensure accuracy and compliance.",
+    "dueDate": "Annually or as required by regulatory bodies",
+    "penalty": "Fines and legal consequences for financial misstatements",
+    "upperLimit": "No specific upper limit"
+  },
+  {
+    "id": "43rd",
+    "name": "FCC Spectrum Auction Participation",
+    "description": "Participation in FCC spectrum auctions for telecommunications companies.",
+    "dueDate": "Varies based on auction schedule",
+    "penalty": "Exclusion from auctions and potential market disadvantages",
+    "upperLimit": "Depends on FCC regulations"
+  },
+  {
+    "id": "44th",
+    "name": "Environmental Impact Reporting",
+    "description": "Regular reporting of environmental impact and sustainability initiatives.",
+    "dueDate": "Annually or as required by environmental agencies",
+    "penalty": "Fines and reputational damage for non-compliance",
+    "upperLimit": "Depends on environmental agency guidelines"
+  },
+  {
+    "id": "45th",
+    "name": "HIPAA Compliance",
+    "description": "Ensuring compliance with Health Insurance Portability and Accountability Act (HIPAA) regulations for healthcare organizations.",
+    "dueDate": "Ongoing vigilance",
+    "penalty": "Fines and legal actions for data breaches and non-compliance",
+    "upperLimit": "Depends on HIPAA penalties"
+  },
+  {
+    "id": "46th",
+    "name": "SEC Filings",
+    "description": "Submission of financial reports and disclosures to the U.S. Securities and Exchange Commission (SEC).",
+    "dueDate": "As per SEC reporting schedule",
+    "penalty": "Fines and legal actions for reporting violations",
+    "upperLimit": "Depends on SEC regulations"
+  },
+  {
+    "id": "47th",
+    "name": "Fair Labor Standards Act (FLSA) Compliance",
+    "description": "Compliance with FLSA regulations regarding minimum wage, overtime, and child labor standards.",
+    "dueDate": "Ongoing vigilance",
+    "penalty": "Fines and legal actions for labor law violations",
+    "upperLimit": "Depends on FLSA regulations"
+  },
+  {
+    "id": "48th",
+    "name": "Chemical Safety Data Reporting",
+    "description": "Submission of chemical safety data to regulatory authorities under REACH, GHS, or local regulations.",
+    "dueDate": "As per chemical safety regulations",
+    "penalty": "Fines and product restrictions for non-compliance",
+    "upperLimit": "Depends on chemical safety regulations"
+  },
+  {
+    "id": "49th",
+    "name": "Accessibility Compliance",
+    "description": "Ensuring digital and physical accessibility for individuals with disabilities, in compliance with ADA and other laws.",
+    "dueDate": "Ongoing vigilance",
+    "penalty": "Legal actions and loss of business for accessibility violations",
+    "upperLimit": "Depends on accessibility regulations"
+  },
+  {
+    "id": "50th",
+    "name": "Consumer Data Privacy Compliance",
+    "description": "Compliance with data privacy regulations like GDPR, CCPA, and other regional laws.",
+    "dueDate": "Ongoing vigilance",
+    "penalty": "Fines and legal actions for data privacy violations",
+    "upperLimit": "Depends on data privacy regulations"
+  },
+  {
+    "id": "51st",
+    "name": "Hazardous Materials Transportation",
+    "description": "Compliance with regulations for the transportation of hazardous materials by road, air, or sea.",
+    "dueDate": "Ongoing vigilance and pre-shipment notifications",
+    "penalty": "Fines and restrictions for non-compliance",
+    "upperLimit": "Depends on transportation regulations"
+  },
+  {
+    "id": "52nd",
+    "name": "Aviation Safety Inspections",
+    "description": "Regular safety inspections and audits for aviation companies and airports.",
+    "dueDate": "As required by aviation authorities",
+    "penalty": "Fines and operational restrictions for safety violations",
+    "upperLimit": "Depends on aviation regulations"
+  },
+  {
+    "id": "53rd",
+    "name": "Medical Device Registration",
+    "description": "Registration of medical devices with regulatory agencies for market authorization.",
+    "dueDate": "Before marketing or as per regulatory schedule",
+    "penalty": "Product recalls and legal actions for unregistered devices",
+    "upperLimit": "Depends on medical device regulations"
+  },
+  {
+    "id": "54th",
+    "name": "Nuclear Safety Compliance",
+    "description": "Compliance with nuclear safety regulations and inspections for nuclear facilities.",
+    "dueDate": "As required by nuclear safety authorities",
+    "penalty": "Fines, shutdowns, and legal actions for nuclear safety violations",
+    "upperLimit": "Depends on nuclear safety regulations"
+  },
+    {
+      "id": "55th",
+      "name": "Financial Crime Compliance",
+      "description": "Ensuring compliance with anti-money laundering (AML) and anti-corruption regulations.",
+      "dueDate": "Ongoing vigilance",
+      "penalty": "Fines and legal actions for financial crime violations",
+      "upperLimit": "Depends on financial crime regulations"
+    },
+    {
+      "id": "56th",
+      "name": "Air Emissions Reporting",
+      "description": "Reporting of air emissions and pollutants in compliance with environmental regulations.",
+      "dueDate": "As per environmental regulations",
+      "penalty": "Fines and legal actions for air emissions violations",
+      "upperLimit": "Depends on environmental regulations"
+    },
+    {
+      "id": "57th",
+      "name": "International Trade Sanctions",
+      "description": "Compliance with international trade sanctions and embargo regulations.",
+      "dueDate": "Ongoing vigilance and trade sanctions updates",
+      "penalty": "Fines and legal actions for trade sanctions violations",
+      "upperLimit": "Depends on international trade regulations"
+    },
+    {
+      "id": "58th",
+      "name": "Cybersecurity Compliance",
+      "description": "Compliance with cybersecurity regulations and data protection laws to protect against cyber threats.",
+      "dueDate": "Ongoing vigilance and regular audits",
+      "penalty": "Fines and legal actions for data breaches and cybersecurity violations",
+      "upperLimit": "Depends on cybersecurity regulations"
+    },
+    {
+      "id": "59th",
+      "name": "Human Resources Compliance",
+      "description": "Compliance with labor laws and regulations regarding employee rights, wages, and working conditions.",
+      "dueDate": "Ongoing vigilance and updates to labor laws",
+      "penalty": "Fines and legal actions for labor law violations",
+      "upperLimit": "Depends on labor law regulations"
+    },{
+      "id": "60th",
+      "name": "Telecommunications Licensing",
+      "description": "Obtaining and maintaining licenses for telecommunications services and infrastructure.",
+      "dueDate": "Varies based on license expiration",
+      "penalty": "Loss of license and legal actions for unlicensed operations",
+      "upperLimit": "Depends on telecommunications regulations"
+    }
 ]
